@@ -17,7 +17,7 @@ public class CustomerDTO {
 		this.jumin = jumin;
 	}
 
-	// Getter / Setter 
+	// Getter / Setter
 	public String getIdx() {
 		return idx;
 	}
